@@ -60,14 +60,3 @@ class Linklist:
 
 
 
-l = Linklist()
-
-
-l.push_head(6)
-l.push_head(1)
-l.push(4)
-l.push_head(8)
-print(l)
-
-for i in l:
-  print(i)
